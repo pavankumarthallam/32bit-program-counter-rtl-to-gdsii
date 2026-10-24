@@ -1,0 +1,6 @@
+stage,wns_ns,tns_ns,worst_slack_ns,min_period_ns,fmax_mhz,power_uw
+floorplan,0.00,0.00,8.08,1.92,521.89,183
+placement,0.00,0.00,7.34,2.66,376.20,238
+cts,0.00,0.00,7.54,2.46,405.85,339
+routing,0.00,0.00,7.36,2.64,378.47,355
+final_gds,0.00,0.00,,,400.40,336

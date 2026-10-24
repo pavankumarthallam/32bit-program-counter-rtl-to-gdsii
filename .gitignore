@@ -1,0 +1,6 @@
+*.log
+*.swp
+.DS_Store
+__pycache__/
+flow/objects/
+flow/results/
